@@ -32,7 +32,7 @@ As a Remote Technical Project Manager, you will be responsible for overseeing an
  - Make sure that whole team is working and no one is left behind.
  - Team should submit their EOD report along with meeting notes on daily basis.
  - make sure that everyone in the team in following the rules and no one is left behind.
- 
+ - On the weekly basis grade the team efforts.
 
 
 
