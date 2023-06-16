@@ -29,6 +29,8 @@ As a Remote Technical Project Manager, you will be responsible for overseeing an
    - Description of issue should also reflect 5Ws rule in it.
     - Issues must have assignees or potential assignees.
  - Have daily meeting with team leads and see their progress.
+ - Make sure that everyone is running focus beta.
+ - Review the smart commit that a person has done on 
  - Make sure that whole team is working and no one is left behind.
  - Team should submit their EOD report along with meeting notes on daily basis.
  - make sure that everyone in the team in following the rules and no one is left behind.
